@@ -31,13 +31,13 @@ h3 {
   font-weight: 800;
 }
 
-.logo {
-  height: 105px;
-}
+/*.logo {*/
+/*  height: 105px;*/
+/*}*/
 
 .app {
   width: 100%;
-  height: calc(100vh - 210px);
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
